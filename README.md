@@ -3,6 +3,6 @@ Going through the topics enumerated in http://lambdaconf.us/downloads/documents/
 
 ## Week 1
 
-[ ] Algebraic Data Types
-[ ] Pattern Matching
-[ ] Parametric Polymorphism
+- [ ] Algebraic Data Types
+- [ ] Pattern Matching
+- [ ] Parametric Polymorphism
